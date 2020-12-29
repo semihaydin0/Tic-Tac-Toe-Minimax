@@ -3,6 +3,8 @@
 -->
 
 ## Tic Tac Toe With Minimax Algorithm
+Tic Tac Toe Simulation: The Intelligent Minimax Algorithm
+
 ![Demo](./assets/demo.gif)
 
 ## Made With
