@@ -167,7 +167,6 @@ public:
 
 	void MainFunc()
 	{
-		Game();
 		unsigned int Turn = 0;
 		bool Status = false;
 		printBoard();
