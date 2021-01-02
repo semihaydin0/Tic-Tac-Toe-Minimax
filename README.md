@@ -1,8 +1,9 @@
 <!--
 *** Semih Aydın 2020
 -->
-
+![Code Inspector](https://code-inspector.com/project/17443/status/svg)
 ## Tic Tac Toe With Minimax Algorithm
+
 Tic Tac Toe Simulation: The Intelligent Minimax Algorithm
 
 ![Demo](./assets/demo.gif)
