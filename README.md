@@ -1,7 +1,7 @@
 <!--
 *** Semih Aydın 2021
 -->
-
+![Codacy Badge](https://app.codacy.com/project/badge/Grade/dedc62cedd5e4ca9ba9c24e4e1c4c5ee)
 ## Tic Tac Toe With Minimax Algorithm
 Tic Tac Toe Simulation: The Intelligent Minimax Algorithm
 
